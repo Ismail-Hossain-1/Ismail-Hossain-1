@@ -1,7 +1,7 @@
 ## Hi there 
 
 <!--
-**Ismail-Hossain-1/Ismail-Hossain-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ismail-Hossain-1/Ismail-Hossain-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center"> I'm Ismail Hossain</h1>
 <h3 align="center">An IT enthusiast</h3>
