@@ -19,6 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- Programming Languages -->
+<h3>Programming Languages</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -41,6 +42,7 @@
 </p>
 
 <!-- Frontend -->
+<h3>Frontend</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -54,6 +56,7 @@
 </p>
 
 <!-- Backend -->
+<h3>Backend</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -67,6 +70,7 @@
 </p>
 
 <!-- Mobile App Development -->
+<h3>Mobile App Development</h3>
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -74,6 +78,7 @@
 </p>
 
 <!-- AI/ML -->
+<h3>AI/ML</h3>
 <p align="left">
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
@@ -87,6 +92,7 @@
 </p>
 
 <!-- Database -->
+<h3>Database</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -97,6 +103,7 @@
 </p>
 
 <!-- DevOps -->
+<h3>DevOps</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -107,6 +114,7 @@
 </p>
 
 <!-- Testing Software -->
+<h3>Testing Software</h3>
 <p align="left">
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
@@ -115,7 +123,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismail-hossain-1&show_icons=true&locale=en&layout=compact" alt="ismail-hossain-1" /></p>
 
