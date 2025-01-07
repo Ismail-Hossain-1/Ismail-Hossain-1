@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning, Automation**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **react, node, mysql, flutter, flask, telegram bot, whatsapp bot**
 
