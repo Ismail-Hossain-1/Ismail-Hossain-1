@@ -6,7 +6,7 @@
 <h1 align="center"> I'm Ismail Hossain</h1>
 <h3 align="center">An IT enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-hossain-1&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-hossain-1" /> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning, Automation**
 
